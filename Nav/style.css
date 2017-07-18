@@ -1,0 +1,17 @@
+header { margin: 0 auto; background: #aaaaaa; }
+nav { background-color: #aaaaaa;
+      font-family: Arial, sans-serif; }
+
+.clearfix:after { visibility: hidden; display: block; content: " "; clear: both; height: 0; font-size: 0; }
+
+a { background-color: #ff7900;
+  color: white; text-decoration: none;
+  display: block; float: left; padding: 20px; }
+
+a:hover { background-color: #aaaaaa; }
+
+.column { width: 260px; height: 300px; padding: 20px; margin: 0; float: left; }
+#column1 { background-color: #AC54FF; }
+#column2 { background-color: #5485FF; }
+#column3 { background-color: #47FFF2; }
+footer { text-transform: uppercase; padding: 20px; background-color: #0D2C40; color: white; font-size: 14px; letter-spacing: .08em; font-weight: 500; }
